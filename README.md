@@ -1,5 +1,9 @@
 # Overview
-Showcase of Artificial Intelligence algorithms implemented within the Pacman framework provided by Berkeley EECS.
+Showcase of Artificial Intelligence algorithms implemented within the Pacman framework.
+
+# Contributors
+  * Andrew Showers (AI Logic)
+  * Berkeley EECS (Pacman Framework)
 
 Table of Contents
 =================
