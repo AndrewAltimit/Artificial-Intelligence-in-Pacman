@@ -3,7 +3,7 @@ Showcase of Artificial Intelligence algorithms implemented within the Pacman fra
 
 Table of Contents
 =================
-  * [Search Agents](SearchAgents/README.md)
-  * [Multi-Agent](Multi-Agent/README.md)
-  * [Reinforcement Learning](ReinforcementLearning/README.md)
-  * [Particle Filtering](ParticleFiltering/README.md)
+  * [Search Agents](SearchAgents/)
+  * [Multi-Agent](Multi-Agent/)
+  * [Reinforcement Learning](ReinforcementLearning/)
+  * [Particle Filtering](ParticleFiltering/)
